@@ -8,9 +8,9 @@ import random
 
 
 # Load your OpenAI API key
-# models.OpenAI.api_key = "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"
-models.OpenAI.api_key = "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"
-# models.OpenAI.api_key = "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"
+
+models.OpenAI.api_key = "API_KEY"
+
 
 
 # or from environment variable:
